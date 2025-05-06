@@ -1,0 +1,7 @@
+Q. What song will be perfect for the user ? we will getting an estimate how tempo, valence etc the user and requires that will help us to reach the perfect song.
+
+Q. What and how much of a key parameter decides the genre ? relation between genre and key parameters.
+
+Q. What makes a song popular ? how the key parameters change with popularity
+
+Q. Predicting the song is of which decade from key parameters.
